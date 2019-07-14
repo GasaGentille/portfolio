@@ -1,0 +1,32 @@
+body{
+    background-color: cadetblue;
+    color:white;
+    font-size: 20px;
+}
+img{
+    width:320px;
+    height: 320px;
+    float: right;
+    margin-right:50px;
+    margin-left: 20px;
+}
+.partone{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+}
+h1,h2{
+    text-align: center;
+    color:black;
+}
+#projects.box{
+    border: 2px solid cadetblue;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    width:30%;
+}
+#footer{
+    border: 0px black solid;
+ text-align: center;
+}
