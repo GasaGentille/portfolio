@@ -6,7 +6,8 @@ This application is made to help collaboration between different developers purp
 ## Setup/Installation Requirements
 1. have first initialized git to my local depository using:$ git init
 2. connect to GitHub repository using:$ git remote https://github.com/GasaGentille/portfolio.git
-3. Deploy project link from GitHub repository using:
+3. Deploy project link to GitHub repository using: git push origin gh-pages
+4. To visit the website use the link: https://gasagentille.github.io/portfolio/
 ## Technologies Used
 {Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
 ## Support and contact details
