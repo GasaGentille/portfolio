@@ -6,8 +6,7 @@ body{
 img{
     width:320px;
     height: 320px;
-    float: right;
-    margin-right:50px;
+    float: left;
     margin-left: 20px;
 }
 .partone{
@@ -27,6 +26,7 @@ h1,h2{
     width:30%;
 }
 #footer{
-    border: 0px black solid;
- text-align: center;
+    border: 1px rgb(15, 230, 230) solid;
+    text-align: center;
+    background-color: rgb(15, 230, 230);
 }
